@@ -9,7 +9,6 @@ Create a Website Login flow using Authentication.
 - Develop a single responsive webpage.
   P.S. You can use any frontend library / framework.
 
-`Submission deadline: 18 October, 2021`
 
 ## Appendix
 
